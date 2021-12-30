@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tanpeep
 - 👀 I’m interested in Competitive Programming and Data Science
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript and Dart
+- 📫 Reach me on my IG
 
 <!---
 tanpeep/tanpeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
